@@ -1,0 +1,3 @@
+Name;FirstName;LastName;BirthDate;PostalCode;StreetType;City;NumberStreet;PhoneNumber;Dni;licenseType;CarPlate;Email;Gender
+Maria;García;López;1981/02/05;28001;Calle;Barcelona;15;612345678;98765432-Z;B;1234ABC;mgarcia@gmail.com;Dona
+Jaume;Nadal;Caro;1981/02/05;28001;Calle;Barcelona;15;612345678;98765432-Z;B;1234ABC;mgarcia@gmail.com;Dona

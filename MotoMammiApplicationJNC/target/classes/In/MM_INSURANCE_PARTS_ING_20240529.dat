@@ -1,0 +1,2 @@
+Dni;ClaimNumber;PolicyNumber;ClaimDate;Description;Status;Amount
+98765432-Z;CN001;P1234567;2023/01/05;"Crash with bus";"Pendent";2000.50

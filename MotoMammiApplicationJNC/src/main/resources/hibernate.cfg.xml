@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-configuration PUBLIC "-//Hibernate/Hibernate Configuration DTD 3.0//EN" "http://www.hibernate.org/dtd/hibernate-configuration-3.0.dtd">
+<hibernate-configuration>
+    <session-factory>
+        <property name="connection.driver_class">com.mysql.jdbc.Driver</property>
+        <property name="connection.url">jdbc:mysql://localhost/mm_jnc</property>
+        <property name="connection.username">root</property>
+        <property name="connection.password">CoronaVirus984532</property>
+        <property name="dialect">org.hibernate.dialect.MySQL5Dialect</property>
+        <property name="hibernate.show_sql">true</property>
+
+        <mapping class="com.dam.tfg.MotoMammiApplicationJNC.Models.ProviderDTO" />
+        <mapping class="com.dam.tfg.MotoMammiApplicationJNC.Models.InterfaceDTO" />
+        <mapping class="com.dam.tfg.MotoMammiApplicationJNC.Models.CustomerDTO" />
+        <mapping class="com.dam.tfg.MotoMammiApplicationJNC.Models.PartsDTO" />
+        <mapping class="com.dam.tfg.MotoMammiApplicationJNC.Models.VehiclesDTO" />
+        <mapping class="com.dam.tfg.MotoMammiApplicationJNC.Models.TranslationDTO" />
+        <mapping class="com.dam.tfg.MotoMammiApplicationJNC.Models.InvoicesDTO" />
+
+    </session-factory>
+</hibernate-configuration>

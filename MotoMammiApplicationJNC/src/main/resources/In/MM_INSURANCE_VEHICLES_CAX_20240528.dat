@@ -1,0 +1,21 @@
+CarPlate;VehicleType;Brand;Model
+1234ABC;Cotxe;Ford;Fiesta
+2345BCD;Cotxe;Toyota;Corolla
+3456CDE;Motocicleta;Honda;CB500
+4567DEF;Cotxe;Chevrolet;Camaro
+5678EFG;Cotxe;Volkswagen;Golf
+6789FGH;Furgoneta;Mercedes;Sprinter
+7890GHI;Cotxe;BMW;320
+8901HIJ;Cotxe;Audi;A4
+9012IJK;Cotxe;Nissan;Leaf
+0123JKL;Motocicleta;Yamaha;MT-07
+1234KLM;Cotxe;Peugeot;208
+2345LMN;Furgoneta;Ford;Transit
+3456MNO;Cotxe;Renault;Clio
+4567NOP;Cotxe;Kia;Sportage
+5678OPQ;Cotxe;Fiat;500
+6789PQR;Motocicleta;Ducati;Monster
+7890QRS;Cotxe;Tesla;Model 3
+8901RST;Cotxe;Hyundai;i30
+9012STU;Cotxe;Opel;Corsa
+0123TUV;Cotxe;Mazda;CXD-5
